@@ -1,2 +1,3 @@
 # Node.js
-A restful api for node.js app
+A RESTfull API for Node.js application
+i'm a back end developer 
