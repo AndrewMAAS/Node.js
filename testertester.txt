@@ -1,3 +1,4 @@
+
 this is isisisisisis
 jkgkjgjghjgjh
 
@@ -13,3 +14,7 @@ dsfsf;ogihsdafd;lgkhdsafal;
 
 jdsfgfhjgjgfjdsfp;gjoasdf
 dsfsf;ogihsdafd;lgkhdsafal;
+
+this is my file
+used in the merge file
+no way to reproduce the same error
