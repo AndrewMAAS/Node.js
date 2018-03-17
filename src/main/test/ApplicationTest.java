@@ -1,8 +1,2 @@
-import junit.*;
 
-
-@Test
-public class ApplicationTest {
-
-
-}
+########################################## This Andrew Test Class for Unit Testing ##############################

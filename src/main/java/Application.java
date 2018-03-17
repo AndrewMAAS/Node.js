@@ -8,3 +8,4 @@ public class Application {
         System.out.println("this is my new basecode for a spring boot application");
     }
 }
+
