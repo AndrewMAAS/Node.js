@@ -1,17 +1,22 @@
 
 
 @Test
-public class ApplicationTest {
+
+public class ApplicationAndrewTest {
+
 
     String name;
 
     @Befor
     public void setUp() {
         this.name = new String("");
+
     }
 
     @After
     public void cleanUp() {
-        this.name = null; 
+
+        this.name = null
     }
+
 }
